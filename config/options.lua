@@ -4,3 +4,10 @@
 vim.opt.relativenumber = false
 vim.opt.number = true -- pour avoir les numéros absolus quand même
 --vim.opt.winbar = "%=%m %f"
+vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
+vim.opt.softtabstop = 4
+vim.opt.expandtab = false
+
+vim.opt.expandtab = true
+vim.opt.wrap = false
